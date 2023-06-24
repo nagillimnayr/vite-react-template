@@ -3,6 +3,9 @@
 		"@commitlint/cli": "^17.6.5",
 		"@commitlint/config-conventional": "^17.6.5",
 		"commitizen": "^4.3.0",
+		"eslint": "^8.43.0",
+		"eslint-config-prettier": "^8.8.0",
+		"eslint-plugin-import": "^2.27.5",
 		"prettier": "^2.8.8"
 	},
 	"dependencies": {
