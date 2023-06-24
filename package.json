@@ -5,7 +5,8 @@
 		"commitizen": "^4.3.0"
 	},
 	"dependencies": {
-		"@commitlint/cz-commitlint": "^17.5.0"
+		"@commitlint/cz-commitlint": "^17.5.0",
+		"husky": "^8.0.3"
 	},
 	"config": {
 		"commitizen": {
